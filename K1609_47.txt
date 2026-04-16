@@ -1,0 +1,10 @@
+Student Name: Imran
+Student's Father Name: Mr. azhar
+Student's Mother Name: Mrs. kousar
+Student's Gender: male
+Student's state: pakistan
+Student's Caste: chohan
+Student's Jee Main Marks: 20
+Student's 12th Class Percentage: 90%
+Student's Stream: 2021
+scholarship avail by student is: Rs.  50000
